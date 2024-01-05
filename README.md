@@ -3,6 +3,7 @@ A tiny program I used to enlarge my vocabulary in 2017-2018 / 我曾使用的背
 
 ## Install / 安装
 You can compile memorizer.pas with Free Pascal / 您可以通过Free Pascal编译memorizer.pas获得程序
+
 Or use the release link on the right / 或者使用右侧的Release链接
 
 ## Usage / 使用说明
